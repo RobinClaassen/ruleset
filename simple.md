@@ -4,7 +4,7 @@ version: 0.0.1
 
 # Simplified Ruleset
 
-The following rules are intended to be a simplified copy of the RMCT standard ruleset. This is a less imposing version but all official ruling decisions should follow the official ruleset.
+The following rules are intended to be a simplified copy of the RMCT standard ruleset. This is a less imposing version but all official ruling decisions should follow the official ruleset. This is Robin testing out how the suggesting fuctionality works on GitHub.
 
 # Section I: How to win
 1. Gather the required blocks on the victory monument.
