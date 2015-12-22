@@ -21,6 +21,7 @@ The following rules are intended to be a simplified copy of the RMCT standard ru
 
 # Section III: Rules
 Players May Not
+
 1. Leave the Lane on purpose unless to kill their player character.
     1. A player may leave the Lane due to death or respawn
     2. If a Player leaves their lane they may not place or drop items onto the map.
