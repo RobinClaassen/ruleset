@@ -67,5 +67,3 @@ All players are here because they enjoy playing. For this reason players are exp
     Referee: Recognized Official of the Organizing members of the Tournament.
     Match: A competetive playthrough of a map between Teams.
     Lane: The area of a map that is supported and not filled with void at the beginning of a Match.
-    
-    Test Edit 2 - From Robin: I will delete this as soon as I see how suggested edits look to other contributors.
